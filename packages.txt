@@ -1,0 +1,65 @@
+# 	Linux
+linux-headers
+v4l2loopback-dkms				-> For virtual camera
+git								-> Version control system
+base-devel
+gcc
+make
+
+#	Terminal+Shell
+zsh                             -> Zsh
+oh-my-zsh-git                   -> Framework zsh
+zsh-autosuggestions             -> Auto suggest previous commands
+zsh-syntax-highlighting         -> Highlighting syntax
+zsh-theme-powerlevel10k-git     -> Zsh theme
+micro							-> Console text editor
+
+#	Common application
+firefox							-> Browser
+telegram-desktop-git			-> Messenger
+flameshot						-> Screenshoter
+keepassxc						-> Password manager
+electrum						-> Bitcoin wallpaper
+obs-studio						-> Streaming/Recorder software
+kdenlive                   		-> Video editor
+krita                  			-> Graphical editor
+
+#	Console application
+neofetch                        -> Кросивое
+htop                            -> Интересное
+genact                          -> Хитрое1
+cmatrix                         -> Хитрое2
+cointop                         -> Курсики
+translate-shell					-> Переводчик
+
+#	For developing
+vscodium-bin					-> IDE
+python							-> Python compilator
+python-pip						-> Packages manager for python
+python-virtualenv				-> Virtual zone for py-packages
+nodejs
+npm
+# sqlitestudio                  -> Для работы с базой sqlite
+
+ranger                          -> File manager in console
+ueberzug                        -> Looking images in ranger
+atool                           -> Work with archive
+mediainfo                       -> Getting techical inf about audio/video
+highlight                       -> ranger?
+ffmpegthumbnailer               -> pre-picture in media
+
+
+#	Fonts
+ttf-material-design-icons-git
+ttf-typicons
+ttf-liberation
+ttf-font-awesome-4
+ttf-jetbrains-mono
+ttf-ubuntu-font-family
+ttf-dejavu
+ttf-nerd-fonts-symbols
+ttf-opensans 
+terminus-font-ttf
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts
