@@ -1,4 +1,3 @@
-#    Linux
 linux-headers
 v4l2loopback-dkms               -> For virtual camera
 
