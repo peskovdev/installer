@@ -1,10 +1,47 @@
-# 	Linux
+#    Linux
 linux-headers
 v4l2loopback-dkms               -> For virtual camera
-git                             -> Version control system
-base-devel
-gcc
-make
+
+#    Enternet
+networkmanager                  -> интернет
+network-manager-applet          -> Граф. штука для интернета
+
+#    Audio
+pipewire-pulse
+pamixer
+
+#    For DE
+xorg-server                     -> Иксы
+xorg-xinit                      -> Запуск исков
+xorg-xrandr                     -> Конфигурация мониторов
+xorg-xsetroot                   -> Для отображения мыши
+
+bspwm                           -> Оконный менеджер
+sxhkd                           -> Хоткеи
+polybar                         -> Панелька
+
+rofi                            -> Запуск всякого
+rofi-greenclip                  -> rofi
+rofi-calc                       -> rofi
+xkb-switch                      -> rofi
+surfraw                         -> rofi
+
+#    File manager
+ranger                          -> File manager in console
+ueberzug                        -> Looking images in ranger
+atool                           -> Work with archive
+mediainfo                       -> Getting techical inf about audio/video
+highlight                       -> ranger?
+ffmpegthumbnailer               -> pre-picture in media
+
+#   Other For DE
+numlockx                        -> Nulock on
+xautolock                       -> Выполняет команду через время
+slock                           -> блокировщик экрана
+dunst                           -> Демон уведомлений
+jq                              -> штука для sup+a
+picom                           -> прозрачность приложений
+xdotool                         -> 
 
 #	Terminal+Shell
 zsh                             -> Zsh
@@ -23,6 +60,8 @@ electrum                        -> Bitcoin wallpaper
 obs-studio                      -> Streaming/Recorder software
 kdenlive                        -> Video editor
 krita                           -> Graphical editor
+zathura                         -> File viewer
+zathura-pdf-poppler             -> Addon to zathura for view PDF
 
 #	Console application
 neofetch                        -> Кросивое
@@ -39,15 +78,7 @@ python-pip                      -> Packages manager for python
 python-virtualenv               -> Virtual zone for py-packages
 nodejs
 npm
-# sqlitestudio                  -> Для работы с базой sqlite
-
-ranger                          -> File manager in console
-ueberzug                        -> Looking images in ranger
-atool                           -> Work with archive
-mediainfo                       -> Getting techical inf about audio/video
-highlight                       -> ranger?
-ffmpegthumbnailer               -> pre-picture in media
-
+sqlitestudio                    -> Для работы с базой sqlite
 
 #	Fonts
 ttf-material-design-icons-git
