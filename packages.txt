@@ -10,16 +10,21 @@ network-manager-applet          -> Граф. штука для интернет�
 pipewire-pulse
 pamixer
 
+#    Media
+vlc
+gwenview
+
+kdeconnect
+
 #    For DE
 xorg-server                     -> Иксы
 xorg-xinit                      -> Запуск исков
 xorg-xrandr                     -> Конфигурация мониторов
 xorg-xsetroot                   -> Для отображения мыши
-
+feh                             -> Обои/просмотрщик изображений
 bspwm                           -> Оконный менеджер
 sxhkd                           -> Хоткеи
 polybar                         -> Панелька
-
 rofi                            -> Запуск всякого
 rofi-greenclip                  -> rofi
 rofi-calc                       -> rofi
@@ -33,6 +38,8 @@ atool                           -> Work with archive
 mediainfo                       -> Getting techical inf about audio/video
 highlight                       -> ranger?
 ffmpegthumbnailer               -> pre-picture in media
+zip                             -> Архиватор
+unzip                           -> Разархиватор
 
 #   Other For DE
 numlockx                        -> Nulock on
@@ -41,7 +48,9 @@ slock                           -> блокировщик экрана
 dunst                           -> Демон уведомлений
 jq                              -> штука для sup+a
 picom                           -> прозрачность приложений
-xdotool                         -> 
+xdotool                         -> Искуственно тыкает команду
+imagemagick                     -> Форматирует фоточки
+
 
 #	Terminal+Shell
 zsh                             -> Zsh
@@ -53,7 +62,7 @@ micro                           -> Console text editor
 
 #	Common application
 firefox                         -> Browser
-telegram-desktop-git            -> Messenger
+telegram-desktop-bin            -> Messenger
 flameshot                       -> Screenshoter
 keepassxc                       -> Password manager
 electrum                        -> Bitcoin wallpaper
