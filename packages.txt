@@ -85,12 +85,11 @@ genact                          -> Хитрое1
 cmatrix                         -> Хитрое2
 cointop                         -> Курсики
 translate-shell                 -> Переводчик
-
 tree                            -> Structure
 #	For developing
-nvim                            -> IDE
+code                            -> IDE
 python                          -> Python compilator
-python-poetry                   -> Packages manager for python
+python-pip                      -> Packages manager for python
 python-virtualenv               -> Virtual zone for py-packages
 nodejs
 npm
