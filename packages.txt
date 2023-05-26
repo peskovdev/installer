@@ -1,6 +1,6 @@
 #    Linux
 linux-headers
-v4l2loopback-dkms               -> For virtual camera
+v4l2loopback-dc-dkms            -> For virtual camera
 
 #    Enternet
 networkmanager                  -> интернет
@@ -10,10 +10,16 @@ network-manager-applet          -> Граф. штука для интернет�
 pipewire-pulse
 pamixer
 
+#   Record
+ffmpeg
+slop
+screenkey
+
 #    Media
 vlc
 gwenview
 
+l3afpad                     -> Простой блокнот
 kdeconnect
 
 #    For DE
@@ -26,10 +32,10 @@ bspwm                           -> Оконный менеджер
 sxhkd                           -> Хоткеи
 polybar                         -> Панелька
 rofi                            -> Запуск всякого
-rofi-greenclip                  -> rofi
-rofi-calc                       -> rofi
-xkb-switch                      -> rofi
-surfraw                         -> rofi
+rofi-greenclip                  -> Rofi clipboard
+rofi-calc                       -> Rofi calculator
+surfraw                         -> Rofi
+xkb-switch                      -> language changer
 
 #    File manager
 ranger                          -> File manager in console
@@ -44,10 +50,10 @@ unzip                           -> Разархиватор
 #   Other For DE
 numlockx                        -> Nulock on
 xautolock                       -> Выполняет команду через время
-slock                           -> блокировщик экрана
+physlock                           -> Блокировщик экрана
 dunst                           -> Демон уведомлений
-jq                              -> штука для sup+a
-picom                           -> прозрачность приложений
+jq                              -> Штука для парса jsona
+picom                           -> Прозрачность приложений
 xdotool                         -> Искуственно тыкает команду
 imagemagick                     -> Форматирует фоточки
 
@@ -80,6 +86,7 @@ cmatrix                         -> Хитрое2
 cointop                         -> Курсики
 translate-shell                 -> Переводчик
 
+tree                            -> Structure
 #	For developing
 nvim                            -> IDE
 python                          -> Python compilator
@@ -88,6 +95,10 @@ python-virtualenv               -> Virtual zone for py-packages
 nodejs
 npm
 sqlitestudio                    -> Для работы с базой sqlite
+
+#       Colors and characters
+gcolor3
+gucharmap
 
 #	Fonts
 ttf-material-design-icons-git
@@ -98,8 +109,9 @@ ttf-jetbrains-mono
 ttf-ubuntu-font-family
 ttf-dejavu
 ttf-nerd-fonts-symbols
-ttf-opensans 
+ttf-opensans
 terminus-font-ttf
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts
+cryptocoins-git
