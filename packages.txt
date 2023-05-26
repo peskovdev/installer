@@ -49,7 +49,7 @@ unzip                           -> Разархиватор
 unrar                           -> Разархиватор
 epub-thumbnailer-git            -> Photo-preview for epub books
 calibre                         -> Photo-preview for books
-unoconv                         -> Photo-preview for docs (Calibre tools)
+unoconv                         -> Photo-preview for docs (Require LibreOffice)
 pandoc-bin                      -> Текстовое превью книг, офисный файлов
 catdoc                          -> Text-preview for doc, xls, rtf
 python-xlsx2csv                 -> Text-preview for xlsx
