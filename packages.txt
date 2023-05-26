@@ -42,10 +42,19 @@ ranger                          -> File manager in console
 ueberzug                        -> Looking images in ranger
 atool                           -> Work with archive
 mediainfo                       -> Getting techical inf about audio/video
-highlight                       -> ranger?
-ffmpegthumbnailer               -> pre-picture in media
+highlight                       -> Ranger?
+ffmpegthumbnailer               -> Pre-picture in media
 zip                             -> Архиватор
 unzip                           -> Разархиватор
+unrar                           -> Разархиватор
+epub-thumbnailer-git            -> Photo-preview for epub books
+calibre                         -> Photo-preview for books
+unoconv                         -> Photo-preview for docs (Calibre tools)
+pandoc-bin                      -> Текстовое превью книг, офисный файлов
+catdoc                          -> Text-preview for doc, xls, rtf
+python-xlsx2csv                 -> Text-preview for xlsx
+sqlite-utils                    -> Beatiful text output for sqlite
+transmission-cli                -> Preview for torrent files
 
 #   Other For DE
 numlockx                        -> Nulock on
