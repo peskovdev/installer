@@ -76,7 +76,9 @@ obs-studio                      -> Streaming/Recorder software
 kdenlive                        -> Video editor
 krita                           -> Graphical editor
 zathura                         -> File viewer
-zathura-pdf-poppler             -> Addon to zathura for view PDF
+zathura-pdf-mupdf               -> Addon to zathura for view PDF, Epub, etc
+zathura-djvu                    -> Addon to zathura for view djvu
+onlyoffice-bin                  -> Document editor
 
 #	Console application
 neofetch                        -> Кросивое
