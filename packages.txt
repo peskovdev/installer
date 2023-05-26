@@ -81,9 +81,9 @@ cointop                         -> Курсики
 translate-shell                 -> Переводчик
 
 #	For developing
-vscodium-bin                    -> IDE
+nvim                            -> IDE
 python                          -> Python compilator
-python-pip                      -> Packages manager for python
+python-poetry                   -> Packages manager for python
 python-virtualenv               -> Virtual zone for py-packages
 nodejs
 npm
