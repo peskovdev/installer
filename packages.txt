@@ -1,6 +1,17 @@
 #    Linux
+cmake
+sct
 linux-headers
-v4l2loopback-dc-dkms            -> For virtual camera
+v4l2loopback-dkms               -> For virtual camera
+alacritty
+trash-cli
+qgnomeplatform-qt5              -> Common theme for all
+redis
+mongodb-bin
+mongosh-bin
+postgresql
+screenkey
+warpd                           -> На случай упороться
 
 #    Enternet
 networkmanager                  -> интернет
