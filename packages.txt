@@ -37,6 +37,7 @@ xorg-server                     -> Иксы
 xorg-xinit                      -> Запуск исков
 xorg-xrandr                     -> Конфигурация мониторов
 xorg-xsetroot                   -> Для отображения мыши
+xorg-xev
 feh                             -> Обои/просмотрщик изображений
 bspwm                           -> Оконный менеджер
 sxhkd                           -> Хоткеи
@@ -75,6 +76,7 @@ jq                              -> Штука для парса jsona
 picom                           -> Прозрачность приложений
 xdotool                         -> Искуственно тыкает команду
 imagemagick                     -> Форматирует фоточки
+kalendar                        -> Calendar
 
 
 #	Terminal+Shell
