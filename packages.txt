@@ -145,10 +145,12 @@ ttf-font-awesome-4
 ttf-jetbrains-mono
 ttf-ubuntu-font-family
 ttf-dejavu
-ttf-nerd-fonts-symbols
+ttf-material-design-icons-git
+cryptocoins-git
 ttf-opensans
 terminus-font-ttf
+ttf-nerd-fonts-symbols-1000-em  -> Icons for nvim (dev-icons)
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts
-cryptocoins-git
+papirus-icon-theme-git          -> Icons for tray
