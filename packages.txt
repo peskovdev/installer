@@ -69,8 +69,8 @@ transmission-cli                -> Preview for torrent files
 
 #   Other For DE
 numlockx                        -> Nulock on
-xautolock                       -> Выполняет команду через время
-physlock                           -> Блокировщик экрана
+physlock                        -> Блокировщик экрана
+slock                           -> Блокировщик экрана
 dunst                           -> Демон уведомлений
 jq                              -> Штука для парса jsona
 picom                           -> Прозрачность приложений
