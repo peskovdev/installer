@@ -94,13 +94,16 @@ code                            -> Gui text editor
 
 #	Common application
 firefox                         -> Browser
+rnote                           -> "Paint" for graphical tablet
+xournalpp                       -> Diary for graphical tablet
 telegram-desktop-bin            -> Messenger
 flameshot                       -> Screenshoter
 keepassxc                       -> Password manager
 electrum                        -> Bitcoin wallpaper
 obs-studio                      -> Streaming/Recorder software
 kdenlive                        -> Video editor
-krita                           -> Graphical editor
+gimp                            -> Graphical editor
+inkscape                        -> Vector graphical editor
 zathura                         -> File viewer
 zathura-pdf-mupdf               -> Addon to zathura for view PDF, Epub, etc
 zathura-djvu                    -> Addon to zathura for view djvu
