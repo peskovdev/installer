@@ -117,12 +117,13 @@ mullvad-vpn
 
 #	Console application
 neofetch                        -> Кросивое
-htop                            -> Интересное
+btop                            -> Интересное
 genact                          -> Хитрое1
 cmatrix                         -> Хитрое2
 cointop                         -> Курсики
 translate-shell                 -> Переводчик
 tree                            -> Structure
+
 #	For developing
 code                            -> IDE
 python                          -> Python compilator
