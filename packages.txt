@@ -81,10 +81,16 @@ imagemagick                     -> Форматирует фоточки
 #	Terminal+Shell
 zsh                             -> Zsh
 oh-my-zsh-git                   -> Framework zsh
+zsh-theme-powerlevel10k-git     -> Zsh-Theme
 zsh-autosuggestions             -> Auto suggest previous commands
-zsh-syntax-highlighting         -> Highlighting syntax
-zsh-theme-powerlevel10k-git     -> Zsh theme
-micro                           -> Console text editor
+zsh-fast-syntax-highlighting    -> Highlighting syntax
+zsh-vi-mode                     -> COOOOOOOOL
+neovim                          -> Console text editor
+lazygit                         -> Tool for control git
+ripgrep
+python-pynvim                   -> Console text editor
+nvim-packer-git                 -> neovim package manager
+code                            -> Gui text editor
 
 #	Common application
 firefox                         -> Browser
