@@ -123,6 +123,7 @@ tree                            -> Structure
 
 #	For developing
 python                          -> Python compilator
+poetry                          -> Packages manager for python
 python-pip                      -> Packages manager for python
 python-virtualenv               -> Virtual zone for py-packages
 nodejs
