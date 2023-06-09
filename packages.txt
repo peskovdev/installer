@@ -107,8 +107,8 @@ kdenlive                        -> Video editor
 gimp                            -> Graphical editor
 inkscape                        -> Vector graphical editor
 zathura                         -> File viewer
-zathura-pdf-mupdf               -> Addon to zathura for view PDF, Epub, etc
-zathura-djvu                    -> Addon to zathura for view djvu
+zathura-pdf-mupdf               -> Addon for view pdf, epub, fb2, xps
+zathura-djvu                    -> Addon for view djvu
 superproductivity-bin
 onlyoffice-bin                  -> Document editor
 anki-bin
