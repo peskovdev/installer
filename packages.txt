@@ -30,7 +30,6 @@ screenkey
 vlc
 gwenview
 
-l3afpad                     -> Простой блокнот
 kdeconnect
 
 #    For DE
@@ -94,6 +93,7 @@ code                            -> Gui text editor
 
 #	Common application
 firefox                         -> Browser
+tor-browser                     -> Browser
 rnote                           -> "Paint" for graphical tablet
 xournalpp                       -> Diary for graphical tablet
 telegram-desktop-bin            -> Messenger
@@ -107,7 +107,11 @@ inkscape                        -> Vector graphical editor
 zathura                         -> File viewer
 zathura-pdf-mupdf               -> Addon to zathura for view PDF, Epub, etc
 zathura-djvu                    -> Addon to zathura for view djvu
+superproductivity-bin
 onlyoffice-bin                  -> Document editor
+anki-bin
+l3afpad
+mullvad-vpn
 
 #	Console application
 neofetch                        -> Кросивое
