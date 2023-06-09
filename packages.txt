@@ -24,13 +24,10 @@ pamixer
 #   Record
 ffmpeg
 slop
-screenkey
 
 #    Media
 vlc
 gwenview
-
-kdeconnect
 
 #    For DE
 xorg-server                     -> Иксы
@@ -125,7 +122,6 @@ translate-shell                 -> Переводчик
 tree                            -> Structure
 
 #	For developing
-code                            -> IDE
 python                          -> Python compilator
 python-pip                      -> Packages manager for python
 python-virtualenv               -> Virtual zone for py-packages
