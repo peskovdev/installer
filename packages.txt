@@ -64,6 +64,7 @@ catdoc                          -> Text-preview for doc, xls, rtf
 python-xlsx2csv                 -> Text-preview for xlsx
 sqlite-utils                    -> Beatiful text output for sqlite
 transmission-cli                -> Preview for torrent files
+dragon-drop                     -> Preview for torrent files
 
 #   Other For DE
 numlockx                        -> Nulock on
