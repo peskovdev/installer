@@ -48,7 +48,7 @@ xkb-switch                      -> language changer
 
 #    File manager
 ranger                          -> File manager in console
-ueberzug                        -> Looking images in ranger
+ueberzugpp                      -> Looking images in ranger
 atool                           -> Work with archive
 mediainfo                       -> Getting techical inf about audio/video
 highlight                       -> Ranger?
