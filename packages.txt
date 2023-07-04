@@ -12,6 +12,7 @@ mongosh-bin
 postgresql
 screenkey
 warpd                           -> На случай упороться
+cronie                          -> Scheduler
 
 #    Enternet
 networkmanager                  -> интернет
