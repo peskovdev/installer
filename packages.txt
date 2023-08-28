@@ -21,6 +21,7 @@ network-manager-applet          -> Граф. штука для интернет�
 #    Audio
 pipewire-pulse
 pamixer
+pavucontrol
 
 #   Record
 ffmpeg
