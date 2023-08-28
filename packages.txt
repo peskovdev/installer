@@ -38,6 +38,7 @@ xorg-xinit                      -> Запуск исков
 xorg-xrandr                     -> Конфигурация мониторов
 xorg-xsetroot                   -> Для отображения мыши
 xorg-xev
+xclip
 feh                             -> Обои/просмотрщик изображений
 bspwm                           -> Оконный менеджер
 sxhkd                           -> Хоткеи
@@ -75,7 +76,8 @@ slock                           -> Блокировщик экрана
 dunst                           -> Демон уведомлений
 jq                              -> Штука для парса jsona
 picom                           -> Прозрачность приложений
-xdotool                         -> Искуственно тыкает команду
+xdotool                         -> For tdrop
+xorg-xwininfo                   -> For tdrop
 imagemagick                     -> Форматирует фоточки
 kalendar                        -> Calendar
 
