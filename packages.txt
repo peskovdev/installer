@@ -80,6 +80,7 @@ xdotool                         -> For tdrop
 xorg-xwininfo                   -> For tdrop
 imagemagick                     -> Форматирует фоточки
 kalendar                        -> Calendar
+kronometer                      -> Timer
 
 
 #	Terminal+Shell
