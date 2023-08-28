@@ -90,6 +90,7 @@ zsh-theme-powerlevel10k-git     -> Zsh-Theme
 zsh-autosuggestions             -> Auto suggest previous commands
 zsh-fast-syntax-highlighting    -> Highlighting syntax
 zsh-vi-mode                     -> COOOOOOOOL
+tmux
 neovim                          -> Console text editor
 lazygit                         -> Tool for control git
 ripgrep
