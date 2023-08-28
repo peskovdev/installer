@@ -96,6 +96,7 @@ lazygit                         -> Tool for control git
 ripgrep
 python-pynvim                   -> Console text editor
 nvim-packer-git                 -> neovim package manager
+silicon                         -> For screenshot from nvim
 code                            -> Gui text editor
 
 #	Common application
