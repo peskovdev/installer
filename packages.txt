@@ -123,7 +123,7 @@ superproductivity-bin
 onlyoffice-bin                  -> Document editor
 anki-bin
 l3afpad
-mullvad-vpn
+mullvad-vpn-bin
 
 #	Console application
 neofetch                        -> Кросивое
