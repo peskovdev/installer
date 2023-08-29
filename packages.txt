@@ -48,6 +48,10 @@ rofi-greenclip                  -> Rofi clipboard
 rofi-calc                       -> Rofi calculator
 surfraw                         -> Rofi
 xkb-switch                      -> language changer
+kwallet                         -> Basically for poetry etc
+kwalletmanager                  -> For creation default wallet (wihtout passwd)
+kdeconnect                      -> local sharing files
+
 
 #    File manager
 ranger                          -> File manager in console
