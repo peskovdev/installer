@@ -83,7 +83,7 @@ picom                           -> Прозрачность приложений
 xdotool                         -> For tdrop
 xorg-xwininfo                   -> For tdrop
 imagemagick                     -> Форматирует фоточки
-kalendar                        -> Calendar
+merkuro                         -> KDE Mail, Contact, Calendar
 kronometer                      -> Timer
 
 
