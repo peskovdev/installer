@@ -40,6 +40,8 @@ xorg-xsetroot                   -> Для отображения мыши
 xorg-xev
 xf86-video-intel                -> Драйвер для яркости
 xorg-xbacklight                 -> Команда для смены яркости
+xorg-xmessage                   -> Для установки NCAlayer
+zenity                          -> Для установки NCAlayer
 xclip
 feh                             -> Обои/просмотрщик изображений
 bspwm                           -> Оконный менеджер
