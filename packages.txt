@@ -98,6 +98,7 @@ zsh-fast-syntax-highlighting    -> Highlighting syntax
 zsh-vi-mode                     -> COOOOOOOOL
 tmux
 neovim                          -> Console text editor
+vim                             -> Console text editor
 lazygit                         -> Tool for control git
 ripgrep
 python-pynvim                   -> Console text editor
