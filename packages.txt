@@ -39,6 +39,7 @@ xorg-xrandr                     -> Конфигурация мониторов
 xorg-xsetroot                   -> Для отображения мыши
 xorg-xev
 xf86-video-intel                -> Драйвер для яркости
+xf86-input-wacom                -> Драйвер для граф. планшета
 xorg-xbacklight                 -> Команда для смены яркости
 xorg-xmessage                   -> Для установки NCAlayer
 zenity                          -> Для установки NCAlayer
@@ -103,9 +104,12 @@ neovim                          -> Console text editor
 vim                             -> Console text editor
 lazygit                         -> Tool for control git
 ripgrep
-python-pynvim                   -> Console text editor
+python-pynvim                   -> Addon for vim
+python-isort                    -> Addon for vim
+python-black                    -> Addon for vim
 nvim-packer-git                 -> neovim package manager
 silicon                         -> For screenshot from nvim
+latexrun-git                    -> Latex Compiler
 code                            -> Gui text editor
 
 #	Common application
