@@ -133,6 +133,7 @@ onlyoffice-bin                  -> Document editor
 anki-bin
 l3afpad
 mullvad-vpn-bin
+obsidian
 
 #	Console application
 neofetch                        -> Кросивое
