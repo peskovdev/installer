@@ -154,7 +154,6 @@ nodejs
 npm
 docker
 docker-compose
-sqlitestudio                    -> Для работы с базой sqlite
 
 #       Colors and characters
 gcolor3
