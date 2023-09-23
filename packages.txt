@@ -109,7 +109,8 @@ python-isort                    -> Addon for vim
 python-black                    -> Addon for vim
 nvim-packer-git                 -> neovim package manager
 silicon                         -> For screenshot from nvim
-latexrun-git                    -> Latex Compiler
+texlive-meta                    -> Latex starter pack
+texlive-lang                    -> Cyrillic and other support for Latex
 code                            -> Gui text editor
 
 #	Common application
