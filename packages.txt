@@ -38,6 +38,10 @@ xorg-xinit                      -> Запуск исков
 xorg-xrandr                     -> Конфигурация мониторов
 xorg-xsetroot                   -> Для отображения мыши
 xorg-xev
+libinput
+xf86-input-libinput
+libinput-gestures
+wmctrl
 xf86-video-intel                -> Драйвер для яркости
 xf86-input-wacom                -> Драйвер для граф. планшета
 xorg-xbacklight                 -> Команда для смены яркости
