@@ -36,6 +36,7 @@ yt-dlp
 xorg-server                     -> Иксы
 xorg-xinit                      -> Запуск исков
 xorg-xrandr                     -> Конфигурация мониторов
+arandr                          -> Конфигурация мониторов
 xorg-xsetroot                   -> Для отображения мыши
 xorg-xev
 libinput
