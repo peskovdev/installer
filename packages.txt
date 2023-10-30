@@ -18,6 +18,11 @@ cronie                          -> Scheduler
 networkmanager                  -> интернет
 network-manager-applet          -> Граф. штука для интернета
 
+#    Bluetooth
+bluez
+bluez-utils
+blueman
+
 #    Audio
 pipewire-pulse
 pamixer
