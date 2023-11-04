@@ -115,6 +115,7 @@ neovim                          -> Console text editor
 vim                             -> Console text editor
 lazygit                         -> Tool for control git
 ripgrep
+fd
 python-pynvim                   -> Addon for vim
 python-isort                    -> Addon for vim
 python-black                    -> Addon for vim
