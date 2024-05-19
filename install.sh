@@ -10,7 +10,7 @@ missing_packages=()
 mapfile -t packages < <(awk '$1 !~ /(#|^$)/ {print $1}' packages.txt)
 
 for i in "${packages[@]}"; do
-    if yay -Qi "$i" &>/dev/null; then
+    if paru -Qi "$i" &>/dev/null; then
         printf "%b%s" "$GREEN" "$i"
         printf '%b%*.*s' "$NC" 0 $((50 - ${#i})) "$pad"
         printf "%b[  %bOK%b  ]\n" "$NC" "$GREEN" "$NC"
@@ -20,10 +20,10 @@ for i in "${packages[@]}"; do
 done
 
 if [[ "${#missing_packages[@]}" -gt 0 ]]; then
-    yay -S --noconfirm --removemake ${missing_packages[*]}
+    paru -S --noconfirm --removemake ${missing_packages[*]}
 
     for i in "${missing_packages[@]}"; do
-        if yay -Qi "$i" &>/dev/null; then
+        if paru -Qi "$i" &>/dev/null; then
             printf "%b%s" "$GREEN" "$i"
             printf '%b%*.*s' "$NC" 0 $((50 - ${#i})) "$pad"
             printf "%b[  %bOK%b  ]\n" "$NC" "$GREEN" "$NC"
